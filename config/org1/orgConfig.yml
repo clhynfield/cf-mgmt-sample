@@ -1,7 +1,7 @@
 org: org1
 org-billingmanager:
   ldap_users: []
-  users: []
+  users: [cwashburn]
   ldap_group: ""
 org-manager:
   ldap_users: []
